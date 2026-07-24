@@ -1,0 +1,32 @@
+{
+  "id": "uwu-kawaii-pink",
+  "name": "Uwu Kawaii Pink",
+  "version": "1.0.0",
+  "author": "firekern",
+  "description": "A soft pastel pink theme with high-contrast mauve text for Nimbalyst.",
+  "license": "MIT",
+  "isDark": false,
+  "colors": {
+    "bg": "#fff7fb",
+    "bg-secondary": "#fff0f7",
+    "bg-tertiary": "#f7edff",
+    "bg-hover": "#ffe2ef",
+    "bg-selected": "#ffd2e6",
+    "bg-active": "#f6c4db",
+    "text": "#512b4d",
+    "text-muted": "#8e667f",
+    "text-faint": "#b78da5",
+    "text-disabled": "#cfb2c2",
+    "border": "#f0cfe0",
+    "border-focus": "#e85b9c",
+    "primary": "#e85b9c",
+    "primary-hover": "#d94389",
+    "link": "#c74481",
+    "link-hover": "#9d3162",
+    "success": "#4d9a76",
+    "warning": "#b87719",
+    "error": "#ce496f",
+    "info": "#8061b5"
+  },
+  "tags": ["light", "pink", "kawaii", "pastel"]
+}
